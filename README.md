@@ -20,7 +20,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/gabriel-rocha-abb8221bb/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-rocha-abb8221bb/"> <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
   <a href="mailto:gabrielfrochaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <img height="25" width="130" src="https://komarev.com/ghpvc/?username=gabsrocha&color=green" alt="visitas Gabriel Rocha" /> 
 
